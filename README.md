@@ -1,3 +1,11 @@
+# QR Code
+
+Minor, design based project made just for testing the [Frontend Mentor](https://www.frontendmentor.io) website 🥰
+
+# Demo
+
+Check it out here ----> [QR Code Website](https://krystianzybura.github.io/qr-code/)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
