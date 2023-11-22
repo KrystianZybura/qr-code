@@ -4,7 +4,7 @@ import QRCODE from "./assets/qrCode.png";
 function App() {
   return (
     <Container>
-      <Image src={QRCODE} />
+      <Image src={QRCODE} alt="Qr code image" />
       <TextWrapper>
         <BoldText>Improve your front-end skills by building projects</BoldText>
         <Text>
