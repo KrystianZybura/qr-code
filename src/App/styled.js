@@ -5,7 +5,6 @@ export const Container = styled.div`
   background: #fff;
   padding: 20px;
   display: grid;
-  grid-template-rows: min-content(30px);
   max-width: 375px;
   text-align: center;
 `;
